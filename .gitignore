@@ -1,0 +1,9 @@
+*.png
+*.jpg
+*.pdf
+*.mp3
+*.mp4
+*.mkv
+package-lock.json
+express/
+node_modules/
